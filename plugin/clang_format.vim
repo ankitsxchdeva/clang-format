@@ -1,7 +1,7 @@
 " File: plugin/clang_format.vim
 " Description: clang-format support for VIM
 " Author: Christophe Juniet
-" Repository: https://github.com/ankitsxchdeva/clang-format.vim
+" Repository: https://github.com/ankitsxchdeva/clang-format
 " License: http://creativecommons.org/licenses/by/4.0/
 
 if exists("g:loaded_clang_format")

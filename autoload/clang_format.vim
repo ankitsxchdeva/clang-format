@@ -1,11 +1,11 @@
 " File: autoload/clang_format.vim
 " Description: clang-format support for VIM
 " Author: Christophe Juniet
-" Repository: https://github.com/cjuniet/clang-format.vim
+" Repository: https://github.com/ankitsxchdeva/clang-format
 " License: http://creativecommons.org/licenses/by/4.0/
 
 if (!exists('g:clang_format_style'))
-  let g:clang_format_style = 'WebKit'
+  let g:clang_format_style = 'Mozilla'
 endif
 
 function! clang_format#TrimWhitespaces()

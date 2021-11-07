@@ -1,3 +1,5 @@
+Idential to cjuniet/clang-format.vim except llvm instead of google formating styles
+
 # clang-format.vim
 
 LLVM's clang-format support for VIM.

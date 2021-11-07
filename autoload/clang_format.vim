@@ -5,7 +5,7 @@
 " License: http://creativecommons.org/licenses/by/4.0/
 
 if (!exists('g:clang_format_style'))
-  let g:clang_format_style = 'Mozilla'
+  let g:clang_format_style = 'WebKit'
 endif
 
 function! clang_format#TrimWhitespaces()
